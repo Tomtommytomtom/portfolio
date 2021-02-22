@@ -3,7 +3,7 @@ Lists to keep track of what i am doing/have done and want to do
 
 
 ## Projects
-- **DOING** - TomCoin, PoC implementation of a Cryptocurrency, roughly following [this tutorial](https://lhartikk.github.io/). Repo:
+- **DOING** - [MotCoin](https://github.com/Motcoin), PoC implementation of a Cryptocurrency, roughly following [this tutorial](https://lhartikk.github.io/). 
 - **DOING** - Portfolio Type Website... Trying to figure out how to be unique 8)
 - **TODO** - Vue 3 composable utility functions like generic stores etc.
 - **TODO** - Some tailwind form components with Vue 3
